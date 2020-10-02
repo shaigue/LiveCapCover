@@ -1,0 +1,13 @@
+
+.idea/*
+__pycache__/*
+**/__pycache__/*
+datasets/*
+assets/original/*
+
+*.log
+lib/image_processing/assets/haarcascade_frontalface_alt2.xml
+lib/image_processing/assets/lbfmodel.yaml
+
+!**/.gitkeep
+#!assets/original/.gitkeep

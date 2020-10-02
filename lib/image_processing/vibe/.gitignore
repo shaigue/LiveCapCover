@@ -1,0 +1,16 @@
+
+.idea/*
+.vscode/*
+dataset/*
+data/vibe_data
+output/*
+results/*
+
+__pycache__/*
+vibe-env/*
+
+../assets/lbfmodel.yaml
+../assets/haarcascade_frontalface_alt2.xml
+
+*.mp4
+*.zip
